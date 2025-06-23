@@ -72,7 +72,7 @@ photozip = 'https://envs.sh/cD_.jpg'
 # Inline keyboard for start command
 BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url="@ASTRONAUT_OFFICIAL_1")]])
 keyboard = InlineKeyboardMarkup([
-        [InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"), InlineKeyboardButton(text="🛠️ Repo", url="@astronaut_Official")],
+        [InlineKeyboardButton(text="🛠️ Help", url="@ASTRONAUT_OFFICIAL_5"), InlineKeyboardButton(text="🛠️ Repo", url="@astronaut_Official")],
 ])
 
 # Image URLs for the random image feature
